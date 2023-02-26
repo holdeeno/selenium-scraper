@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from parsel import Selector
 
-# https://www.google.com/maps/search/{keyword}/@{LAT},{LONG},15z
+# https://www.google.com/maps/search/{keyword PLI}/@{LAT},{LONG},15z
 GOOGLE_MAPS_URL = 'https://www.google.com/maps/search/gyms/@30.2357602,-97.8386944,15z'
 
 # start a selenium web driver and specify browsing options
