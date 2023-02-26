@@ -1,4 +1,4 @@
-run = "python3 scraper.py"
+run = "python3 google_maps_scraper.py"
 
 # The primary language of the repl. There can be others, though!
 language = "python3"
